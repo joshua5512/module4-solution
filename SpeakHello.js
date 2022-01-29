@@ -11,7 +11,7 @@
 
 }) (window);
 
-//Shown next is the function for SpeakGoodbye. It shows error when open the developer tool.
+//Shown next is the function for SpeakGoodbye. It shows error when open the developer tool. So I have to move it to this js document.
 
 (function(window) {
   
