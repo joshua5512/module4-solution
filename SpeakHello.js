@@ -11,6 +11,8 @@
 
 }) (window);
 
+//Shown next is the function for SpeakGoodbye. It shows error when open the developer tool.
+
 (function(window) {
   
   var byeSpeaker = {};
